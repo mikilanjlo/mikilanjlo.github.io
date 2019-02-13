@@ -13,6 +13,6 @@ Specialization is software and technology. I am a 3rd year student.
 ### Projects
 [VR Game with zombie](https://drive.google.com/drive/folders/1F6v74Wo3GyeFSvm448fwvUy5burN_gI5?usp=sharing)
 
-Casual fish mobile game [Apk](https://drive.google.com/open?id=1jguEekGrtxB5XiUwBD38toiLIUSnyOXh)
+Casual fish mobile game: [Apk](https://drive.google.com/open?id=1Y5MSRuq_VOoisUljQSj6YMTAcqDPZw0E),
 [description](https://polygon.by/blog/gamelab/2019/01/gl7-fishdish-report-6)
 
