@@ -10,38 +10,9 @@ Games for me are like new worlds.
 I am a student BSUIR. I study at the faculty of computer systems and networks.
 Specialization is software and technology. I am a 3rd year student.
 
-You can use the [editor on GitHub](https://github.com/mikilanjlo/mikilanjlo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Projects
+[VR Game with zombie](https://drive.google.com/drive/folders/1F6v74Wo3GyeFSvm448fwvUy5burN_gI5?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Casual fish mobile game [Apk](https://drive.google.com/open?id=1jguEekGrtxB5XiUwBD38toiLIUSnyOXh)
+[description](https://polygon.by/blog/gamelab/2019/01/gl7-fishdish-report-6)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikilanjlo/mikilanjlo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
