@@ -5,6 +5,7 @@
 I became a programmer, because I like it. I want to create a modern world with vr.
 My dream is to reduce the distance between people. I like create games. 
 Games for me are like new worlds.
+I like Unity. I like C#.
 
 ### Education
 I am a student BSUIR. I study at the faculty of computer systems and networks.
