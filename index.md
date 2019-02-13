@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## title: Welcome to homepage Mikita Kuzmichkin!
 
 You can use the [editor on GitHub](https://github.com/mikilanjlo/mikilanjlo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
