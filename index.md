@@ -6,6 +6,10 @@ I became a programmer, because I like it. I want to create a modern world with v
 My dream is to reduce the distance between people. I like create games. 
 Games for me are like new worlds.
 
+### Education
+I am a student BSUIR. I study at the faculty of computer systems and networks.
+Specialization is software and technology. I am a 3rd year student.
+
 You can use the [editor on GitHub](https://github.com/mikilanjlo/mikilanjlo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
