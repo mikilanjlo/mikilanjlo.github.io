@@ -17,6 +17,10 @@ Specialization is software and technology. I am a 3rd year student.
 Casual fish mobile game: [Apk](https://drive.google.com/open?id=1Y5MSRuq_VOoisUljQSj6YMTAcqDPZw0E),
 [description](https://polygon.by/blog/gamelab/2019/01/gl7-fishdish-report-6)
 
+my github - https://github.com/mikilanjlo
 
-###Codewars Portfolio
+my bitbucket  - https://bitbucket.org/mikilanjlo/
+
+### Codewars Portfolio
 [https://www.codewars.com/users/mikilanjloGit/completed](https://www.codewars.com/users/mikilanjloGit/completed)
+
